@@ -1,0 +1,7 @@
+Django>=1.7
+uwsgi
+honcho
+psycopg2
+celery[redis]
+
+django-environ
